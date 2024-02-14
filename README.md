@@ -2,9 +2,9 @@
 
 Are you ready to start creating systems and applications using AI? In this track, you'll learn how to use the Gemini API in Python
 
-Through hands-on coding exercises, you’ll learn how to send prompts to OpenAI's GPT models to solve a wide range of real-world problems. 
+Through hands-on coding exercises, you’ll learn how to send prompts to gemini-pro and pro vision models to solve a wide range of real-world problems. 
 
-You'll learn state-of-the-art prompting techniques to get the most out of these models. 
+You'll also learn state-of-the-art prompting techniques to get the most out of these models. 
 
 
 ## 🚀 Tutorials
