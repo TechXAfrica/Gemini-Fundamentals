@@ -24,9 +24,10 @@ You'll also learn state-of-the-art prompting techniques to get the most out of t
 | [Lesson 12 - Get started with Gemini on Web ](https://github.com/ngesa254/Gemini-Fundamentals) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qZY0fawTozh0pxmM8BY_oxg1tk3b8D9n)|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md) |
 | [Lesson 13 -  Get started with Gemini on Android](https://github.com/ngesa254/Gemini-Fundamentals) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qZY0fawTozh0pxmM8BY_oxg1tk3b8D9n)|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md) |
 | [Lesson 14 - Get started with Gemini on Flutter ](https://github.com/ngesa254/Gemini-Fundamentals) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qZY0fawTozh0pxmM8BY_oxg1tk3b8D9n)|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md) |
+| [Lesson 15 - Get started with Gemini on Angular  ](https://github.com/ngesa254/Gemini-Fundamentals) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qZY0fawTozh0pxmM8BY_oxg1tk3b8D9n)|[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md) |
 
 
-Building a Gemini Chatbot with Angular
+
  
 
  
