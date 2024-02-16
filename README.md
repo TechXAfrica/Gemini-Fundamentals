@@ -1,4 +1,4 @@
-# Gemini-Fundamentals
+# Gemini-Fundamentals (Study Jam)
 
 Are you ready to start creating systems and applications using AI? In this track, you'll learn how to use the Gemini API in Python
 
