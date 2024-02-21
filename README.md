@@ -1,10 +1,17 @@
 # Gemini-Fundamentals (Study Jam)
 
-Are you ready to start creating systems and applications using AI? In this track, you'll learn how to use the Gemini API in Python
+Are you ready to dive into the world of AI and unlock the potential of Google's most advanced AI technologies? Welcome to the **Gemini Era Study Jams!** 
 
-Through hands-on coding exercises, you’ll learn how to send prompts to gemini-pro and pro vision models to solve a wide range of real-world problems. 
+Through interactive sessions and hands-on coding exercises, you'll learn how to use the Google's gemini-pro and pro vision models to solve a wide range of real-world problems. 
 
-You'll also learn state-of-the-art prompting techniques to get the most out of these models. 
+You will learn state-of-the-art prompting techniques to get the most out of these models.
+
+We will also walk you through building an AI system that can query your documents & data using LangChains & the Gemini API.
+
+Join us and unlock the power of Gemini API. Let's unleash the full potential of AI together!
+
+
+**Target Audience:** Developers with basic Python programming experience and an interest in using large language models (LLMs).
 
 
 ## 🚀 Tutorials
@@ -28,8 +35,52 @@ You'll also learn state-of-the-art prompting techniques to get the most out of t
 
 
 
- 
+---
 
- 
+Week 1
+
+Primer 
+
+Lesson 1 - Deep Learning Primer (Introduction to Generative AI )
+
+Introduction to Generative AI concepts (for beginners).
+
+
+Week 2
+
+Foundations & Setup
+
+Lesson 2 - Getting Started with Gemini API (Gemini 101 )
+
+
+Google AI Studio 101: Set up your development environment and API access to use Gemini.
+Create freeform prompts with Gemini Pro Vision in Google AI Studio
+Text Generation: Create text from text inputs using Gemini Pro API and Python.
+Response Control: Fine-tuning the Response - Control how the model generates responses using Gemini API generation parameters: temperature, top_k, top_p, stop sequences and more
+Trying Gemini Pro Vision - Talking with an Image
+
+
+Lesson 3  - Using Gemini API with Python
+
+Generate text responses from multimodal inputs (text and images).
+Use Gemini for multi-turn conversations (chat).
+Chat Conversations
+
+
+Lesson 4 - A Gentle Introduction to LLMs and LangChains
+Lesson 5 - Getting started with Gemini and LangChains
+Bonus - Get started with Gemini on Android / Web
+
+Week 3
+
+Gemini and LangChains
+
+Lesson 6 - Chat with your document using Gemini and LangChains
+Lesson 7 - Intro to Embeddings with Gemini APIs and LangChains
+Use embeddings for large language models. - Create Vector Embeddings: Develop solutions using vector embeddings to capture semantic relationships in data.
+Bonus - Get started with Gemini on Flutter / Angular
+
+
+ ---
 
 
