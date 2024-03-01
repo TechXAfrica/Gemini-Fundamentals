@@ -31,7 +31,7 @@ Join us and unlock the power of Gemini API. Let's unleash the full potential of 
 | [Lesson 12 - Get started with Gemini on Web ](https://github.com/ngesa254/Gemini-Fundamentals) | |[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals) |
 | [Lesson 13 -  Get started with Gemini on Android](https://github.com/ngesa254/Gemini-Fundamentals) ||[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals) |
 | [Lesson 14 - Get started with Gemini on Flutter ](https://github.com/ngesa254/Gemini-Fundamentals) | |[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals) |
-| [Lesson 15 - Get started with Gemini on Angular  ](https://github.com/ngesa254/Gemini-Fundamentals) | |[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@techx_africa) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals) |
+| [Lesson 15 - Get started with Gemini on Angular  ](https://github.com/ngesa254/Gemini-Fundamentals) | |[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=bmsS5egXOo0) | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/ngesa254/Gemini-Fundamentals) |
 
 
 
@@ -80,7 +80,7 @@ Lesson 7 - Intro to Embeddings with Gemini APIs and LangChains
 Use embeddings for large language models. - Create Vector Embeddings: Develop solutions using vector embeddings to capture semantic relationships in data.
 Bonus - Get started with Gemini on Flutter / Angular
 
-
+Image Similarity Search with Gemeini
  ---
 
 
